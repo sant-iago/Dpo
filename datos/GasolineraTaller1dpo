@@ -1,0 +1,13 @@
+tipo:Gas2:20:200.0
+tipo:Gas1:10:100.0
+tipo:Gas4:40:400.0
+tipo:Gas3:30:300.0
+surtidor:Pleado3:Gas2:0.0:Gas1:0.0:Gas4:0.0:Gas3:0.0
+surtidor:Pleado2:Gas2:0.0:Gas1:0.0:Gas4:0.0:Gas3:0.0
+surtidor:Pleado3:Gas2:0.0:Gas1:0.0:Gas4:0.0:Gas3:0.0
+surtidor:Pleado5:Gas2:0.0:Gas1:0.0:Gas4:0.0:Gas3:0.0
+empleado:Pleado1:0
+empleado:Pleado2:0
+empleado:Pleado5:0
+empleado:Pleado3:0
+empleado:Pleado4:0
